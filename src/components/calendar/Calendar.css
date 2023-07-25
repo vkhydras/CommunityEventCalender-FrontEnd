@@ -1,0 +1,19 @@
+.calendar-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.event-cards {
+  display: grid;
+  grid-gap: 20px;
+}
+
+.event-details-card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.darkCalendar{
+  color:rgb(209, 209, 209) ;
+}
+
